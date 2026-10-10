@@ -218,3 +218,8 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Local corpus, indexes, and evaluation output
+data/
+eval/results/
+.DS_Store
